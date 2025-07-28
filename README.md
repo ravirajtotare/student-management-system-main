@@ -78,5 +78,5 @@ A fully functional **Student Management System** built using **PHP**, **MySQL**,
 
 
 
-###----------------------------------------------------------------------THANK YOU FOR VISITING RAVI'S PROJECTS---------------------------------------------------------------
+###------------------------------THANK YOU FOR VISITING RAVI'S PROJECTS---------------------------------
 
